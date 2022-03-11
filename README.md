@@ -1,2 +1,3 @@
-# swift-study
-Swift studying notes and practice projects. 
+# Swift Study
+
+@dalton-turner
