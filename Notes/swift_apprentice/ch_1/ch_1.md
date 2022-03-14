@@ -61,6 +61,12 @@ When you want to change the data behind a name, you can use a variable to repres
 
 Always try to choose meaningful names for variables and constants. Good names can act as documentation. In Swift, it is common to camel case variable and constant names. 
 
-A common operation that you will need is to be able to increment or decrement a variable. 
+A common operation that you will need is to be able to increment or decrement a variable.
+
+## Mini Challenges and Challenges
+Course materials/solutions [here](https://github.com/raywenderlich/sa-materials).
+
+
+
 
 
